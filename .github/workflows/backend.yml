@@ -14,5 +14,5 @@ jobs:
   run-test:
      runs-on: ubuntu-latest
      steps:
-       - name: Say hello
-         run: echo "Hello how are you"
+       - name: Say Hi
+         run: echo "Hi how are you"
